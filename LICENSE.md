@@ -1,4 +1,4 @@
-# 
+# Avancé Pixelle-Video extensions. Avec déploiement de modèles et mémoire contextuelle — optimisé pour des performances et une efficacité maximales.
 
 
 
